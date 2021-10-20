@@ -4,6 +4,11 @@ body{
 div.top{
     display: flex;
 }
+div.fonte{
+    background-color: black;
+    width: 850px;
+    height: 900px;
+}
 
 
 div.top div.cont-photo-top-left{
@@ -42,7 +47,7 @@ div.top div#column-name-surname-parcour div.cont-top-right-nane-surname{
 div.top div#column-name-surname-parcour div.cont-top-right-parcour{
     margin-top: 25px;
     margin-left: 50px;
-    width: 1000px;;
+    width: 1000;;
     background-color:rgb(113, 255, 113);
 }
 div.top div#column-name-surname-parcour div.cont-top-right-parcour div.cont-top-left-titre-parcours{
